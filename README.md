@@ -4,7 +4,7 @@ Files:
 
 - pg_hba.conf
 	- Path: /var/lib/pgsql/9.6/data
-- postgres.conf
+- postgresql.conf
 	- Path: /var/lib/pgsql/9.6/data
 - 00-base.conf
 	- Path: /var/lib/pgsql/9.6/data/conf.d
